@@ -9,4 +9,4 @@ However, quality education is not the only necessity required by students. The w
 
 ---WEBSITE LINK---
 
-https://joshuar26.github.io/LearnBridge/index.html
+https://aaryadarisi.github.io/LearnBridge.github.io/
